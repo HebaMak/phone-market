@@ -1,5 +1,5 @@
 import { useParams } from "react-router-dom"
-import { useState } from "react"
+import { useState , useEffect } from "react"
 import { DATA } from "../DATA"
 import { useDispatch  , useSelector} from "react-redux"
 import { addItem , delItem } from "../redux/actions"
@@ -15,10 +15,7 @@ const ProductDetails = () => {
   const exist = state.find(x => x.id === product.id)
   const [cartBtn , setCartBtn] = useState(exist ? true : false)
 
-  console.log(state);
-
   const handleCart = product => {
-
     if(exist) {
       dispatch(delItem(product))
       setCartBtn(false)
@@ -27,6 +24,12 @@ const ProductDetails = () => {
       setCartBtn(true)
     }
   }
+
+
+  useEffect(() => {
+    localStorage.setItem('store' , JSON.stringify(state))
+  }, [state])
+
 
   return (
     <div className="container product-details my-5 py-5">
