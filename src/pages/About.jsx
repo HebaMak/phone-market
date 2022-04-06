@@ -21,11 +21,6 @@ const About = () => {
             <li>in cart page you can see the image of the product, title and price and a button for deleting the product from the cart.</li>
             <li>I use Bootsrtap in styling and the app is responsive for different screens</li>
           </ul>
-
-          <h5>featutes i hope to add to this app</h5>
-          <ol>
-            <li>use local storage to save the selected products and total price.</li>
-          </ol>
   
           </div>
           <div className="col-md-4 text-center mt-5">
