@@ -1,4 +1,3 @@
-// const initialState = []
 const initialState =  JSON.parse(localStorage.getItem('store')) || []
 
 const reducer = (state = initialState , action) => {
