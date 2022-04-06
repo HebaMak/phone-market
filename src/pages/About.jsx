@@ -19,6 +19,7 @@ const About = () => {
             <li>buy now icon direct to the details page of each product in which you can see more details about the product and also you can add it to the cart.</li>
             <li>in product details the button is add to cart if the product is not in the cart and remove from cart if the product is in the cart.</li>
             <li>in cart page you can see the image of the product, title and price and a button for deleting the product from the cart.</li>
+            <li>in cart page also if there are products you will proceed the checkout page in which you can see the total price and process of pay </li>
             <li>I use Bootsrtap in styling and the app is responsive for different screens</li>
           </ul>
   

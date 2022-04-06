@@ -1,4 +1,4 @@
-const initialState =  JSON.parse(localStorage.getItem('store')) || []
+const initialState = JSON.parse(localStorage.getItem('store')) || []
 
 const reducer = (state = initialState , action) => {
 
