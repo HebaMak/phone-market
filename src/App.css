@@ -4,11 +4,13 @@
 
 body {
   padding-top: 70px;
+  padding: 70px 20px 0 20px;
 }
 
 /* navbar */
 .navbar {
   z-index: 9999;
+  padding: 0 20px;
 }
 .navbar .logo img{
   width: 50px;

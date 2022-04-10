@@ -3,7 +3,6 @@ import { NavLink } from "react-router-dom"
 
 const About = () => {
   return (
-    <>
       <div className="container py-5">
         <div className="row">
           <div className="col-md-8">
@@ -30,7 +29,6 @@ const About = () => {
           </div>
         </div>
       </div>
-    </>
   )
 }
 
