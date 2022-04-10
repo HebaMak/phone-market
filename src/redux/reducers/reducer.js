@@ -10,11 +10,17 @@ const reducer = (state = initialState , action) => {
       } else {
         return [...state , action.payload ]
       }
-    
+
     case "DEL_ITEM": 
       return state = state.filter(x => {
         return x.id !== action.payload.id
       })
+
+     // case "DEL_ITEM": 
+      // const filteredItems = state.filter(x => {
+      //   return x.id !== action.payload.id
+      // })
+      // return [...filteredItems] 
 
     default: return state
   }

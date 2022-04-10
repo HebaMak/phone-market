@@ -1,5 +1,5 @@
 import { useParams } from "react-router-dom"
-import { useState , useEffect } from "react"
+import { useEffect } from "react"
 import { DATA } from "../DATA"
 import { useDispatch  , useSelector} from "react-redux"
 import { addItem , delItem } from "../redux/actions"
@@ -13,15 +13,12 @@ const ProductDetails = () => {
   const product = proDetails[0]
   
   const exist = state.find(x => x.id === product.id)
-  const [cartBtn , setCartBtn] = useState(exist ? true : false)
 
   const handleCart = product => {
     if(exist) {
       dispatch(delItem(product))
-      setCartBtn(false)
     } else {
       dispatch(addItem(product)) 
-      setCartBtn(true)
     }
   }
 
@@ -42,7 +39,7 @@ const ProductDetails = () => {
           <hr />
           <h2 className="my-4">{`$${product.price}`}</h2>
           <p className="lead">{product.desc}</p>
-          <button className="btn btn-outline-danger my-5" onClick={()=>handleCart(product)}>{cartBtn ? 'Remove from Cart' : 'Add to Cart'}</button>
+          <button className="btn btn-outline-danger my-5" onClick={()=>handleCart(product)}>{exist ? 'Remove from Cart' : 'Add to Cart'}</button>
         </div>
       </div>
     </div>
