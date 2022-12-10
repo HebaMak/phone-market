@@ -1,4 +1,4 @@
-8No
+88No
 
 - the app link on Netlify ; https://hapiii-phone-market.netlify.app/
 
@@ -56,9 +56,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ### Advanced Configuration
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-
-
 /facebook.github.io/creaocs/deployment)
 
 
