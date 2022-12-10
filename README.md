@@ -61,6 +61,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
-cs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+/facebook.github.io/create-react-app/docs/deployment)
 
 
