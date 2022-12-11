@@ -27,7 +27,7 @@ You may also see any lint errors in the console.
 Launches the te watch mode
 nning tests](https://facebook.github.io/create-react-app/docs/running-tests) for more informatio
 It correctly bundleode and optimizes the build 
-Your app is 
+
 
 See the st [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
