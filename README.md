@@ -31,7 +31,7 @@ Launches the te watch mode.\
 nning tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 
-Builds the app the `build` folder.\
+Builds thefolder.\
 It correctly bundleode and optimizes the build 
 Your app is ready to be deployed!
 
