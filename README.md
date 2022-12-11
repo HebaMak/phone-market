@@ -28,10 +28,7 @@ You may also see any lint errors in the console.
 ### `npm test`
 
 Launches the te watch mode.\
-nning tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-
-Builds thefolder.\
+nning tests](https://facebook.github.io/create-react-app/docs/running-tests) for more informatio
 It correctly bundleode and optimizes the build 
 Your app is ready to be deployed!
 
