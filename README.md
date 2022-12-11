@@ -33,7 +33,7 @@ nning tests](https://facebook.github.io/create-react-app/docs/running-tests) for
 
 Builds the app the `build` folder.\
 It correctly bundleode and optimizes the build for the best performance.
- hashes.\
+ 
 Your app is ready to be deployed!
 
 See the st [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
