@@ -26,7 +26,7 @@ The page will reload when ake changes.\
 You may also see any lint error the console.
 Launches the te watch 
 nning tests](https://facebookc-react-app/docs/running-tests) for more informatio
-It cor
+
 See the st [deployment](https://ook.github.io/create-react-app/docs/deployment) for more informat
 If you aren't satisfiethe build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your 
 Instead, onfiguration files nsitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
