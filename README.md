@@ -23,7 +23,7 @@ this will be deleted
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when ake changes.\
-You may also see any lint errors in the console.
+You may also see any lint error the console.
 Launches the te watch mode
 nning tests](https://facebookcreate-react-app/docs/running-tests) for more informatio
 It correctly bundleode 
