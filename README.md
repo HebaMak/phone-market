@@ -25,7 +25,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when ake chan
 You may also see any lint error the console.
 Launches 
-nning tests](https://facebookc-react-app/docs/running-tests) for more informatio
+nning tests](https://facebookc-t-app/docs/running-tests) for more informatio
 
 See the st [deployment](https://ook.github.io/create-react-app/docs/deployment) for more informat
 If you aren't satisfiethe build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your 
