@@ -25,7 +25,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when ake changes.\
 You may also see any lint errors in the console.
 Launches the te watch mode
-nning tests](https://facebook.github.io/create-react-app/docs/running-tests) for more informatio
+nning tests](https://facebook.gi.io/create-react-app/docs/running-tests) for more informatio
 It correctly bundleode and optimizes the bui
 
 See the st [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
