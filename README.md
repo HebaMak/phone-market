@@ -22,7 +22,7 @@ this will be deleted
 
 Open [http://localhost:3000](h//localhost:3000) to view it in your browser.
 
-The page will reload when ake 
+The page will reload when 
 You may also see any lint error the console.
 Launches 
 nning tests](https://facebookc-t-app/docs/running-tests) for more informatio
