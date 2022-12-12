@@ -31,7 +31,7 @@ It correctly bundleode and optimizes the build
 
 See the st [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+If you aren't satisfiethe build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
 Instead, onfiguration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
