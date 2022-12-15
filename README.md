@@ -20,7 +20,7 @@ this will be deleted
 ---------------------------------------------------------------------
 
 
-Open [http://localhost:3000](h//localhost:3000) to view it in your browser.
+Open [http://localhost:3000](h//localhost:3000) to view it 
 
 The page will reload 
 You may also see any lint error the console.
