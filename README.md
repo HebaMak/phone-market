@@ -19,7 +19,7 @@
 this will be deleted
 ---------------------------------------------------------------------
 Open [http:/ost:3(h//localhost:3ew 
-You may 
+You m
 nning s](https://facebookc-t-p/docs/running-tests) for more informatio
 See the st [deployment](https://ook.github.io/create-react-app/docs/deployment) for more informat
 If you aren't satisfiethe build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your 
