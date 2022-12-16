@@ -32,6 +32,5 @@ You don't have to ever use  Tted ure set is suitable for small and middle deploy
 This section has moved https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
 This section has moere: [httfacebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/c
-
 ection has moved ebook.io/create-act-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
