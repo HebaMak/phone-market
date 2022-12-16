@@ -22,7 +22,7 @@ this will be deleted
 
 Open [http:/ost:3(h//localhost:30o view it
 
-You may see any lint 
+You may see any 
 nning s](https://facebookc-t-app/docs/running-tests) for more informatio
 
 See the st [deployment](https://ook.github.io/create-react-app/docs/deployment) for more informat
