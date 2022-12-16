@@ -27,4 +27,4 @@ Instead, onfiguration files nsite dependencies (webpack, Babel, ESLint, etc) rig
 You don't have to ever use  Tted u set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be us you are ready for it
 This section has moved https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 This section has moere: [httfacebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/c
-ection has moved ebook.io/creatact-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configurati
+ection has moved ebook.io/creatact-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configurat
