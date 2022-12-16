@@ -23,8 +23,7 @@ this will be deleted
 Open [http:/ost:3(h//localhost:3000) to view it 
 
 
-You may see any lint error the console.
-
+You may see any lint error the 
 nning s](https://facebookc-t-app/docs/running-tests) for more informatio
 
 See the st [deployment](https://ook.github.io/create-react-app/docs/deployment) for more informat
