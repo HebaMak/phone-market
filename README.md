@@ -25,7 +25,7 @@ Open [http://localhost:3000](h//localhost:3000) to view it
 
 You may also see any lint error the console.
 
-nning tests](https://facebookc-t-app/docs/running-tests) for more informatio
+nning s](https://facebookc-t-app/docs/running-tests) for more informatio
 
 See the st [deployment](https://ook.github.io/create-react-app/docs/deployment) for more informat
 If you aren't satisfiethe build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your 
