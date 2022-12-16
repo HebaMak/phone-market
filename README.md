@@ -20,7 +20,7 @@ this will be deleted
 ---------------------------------------------------------------------
 
 
-Open [http://llhost:3000](h//localhost:3000) to view it 
+Open [http://llhost:3(h//localhost:3000) to view it 
 
 
 You may see any lint error the console.
