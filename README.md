@@ -33,5 +33,5 @@ This section has moved https://facebook.github.io/create-react-app/docs/code-spl
 
 This section has moere: [httfacebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/c
 
-ection has moved ebook.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+ection has moved ebook.io/create-act-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
