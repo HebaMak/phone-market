@@ -20,8 +20,7 @@ this will be deleted
 ---------------------------------------------------------------------
 
 
-Open [http:/ost:3(h//localhost:3ew it
-
+Open [http:/ost:3(h//localhost:3ew 
 You may see any 
 nning s](https://facebookc-t-app/docs/running-tests) for more informatio
 
