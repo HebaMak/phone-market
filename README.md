@@ -20,7 +20,7 @@ this will be deleted
 ---------------------------------------------------------------------
 
 
-Open [http:/ost:3(h//localhost:3000) to view it 
+Open [http:/ost:3(h//localhost:30o view it 
 
 
 You may see any lint error the 
