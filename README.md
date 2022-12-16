@@ -23,7 +23,7 @@ this will be deleted
 Open [http://localhost:3000](h//localhost:3000) to view it 
 
 
-You may also see any lint error the console.
+You may see any lint error the console.
 
 nning s](https://facebookc-t-app/docs/running-tests) for more informatio
 
