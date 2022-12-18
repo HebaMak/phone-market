@@ -18,7 +18,7 @@
 -------------------------------------------------------------------
 this will be deleted
 ---------------------------------------------------------------------
-Open [http:/ost:3(h//localhost:3ew 
+Open [http:/ost:3(h//localhost:3 
 You m
 nning s](https://facebookc-t-p/docs/running-tests) for more informatio
 See the st [deployment](https://oithub.io/create-react-app/docs/deployment) for more informat
