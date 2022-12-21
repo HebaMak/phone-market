@@ -23,7 +23,7 @@ Open [http:/ost:3(h//localhost
 nning s](https://facebookcp/docs/ruing-tests) for more informatio
 See the st [deployment](https://oithub.io/create-react-app/docs/deployment) for more informat
 If you aren't satis
-fiethe build l and configation choices, you can `eject` at any time. This command will remove the single build dependency from your 
+fiethe build l and confition choices, you can `eject` at any time. This command will remove the single build dependency from your 
 Instead, onfiguration files nsite dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your o
 You don't have to ever use  Tted u set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be us you are ready for it
 This section has moved https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
