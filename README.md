@@ -18,8 +18,7 @@
 -------------------------------------------------------------------
 this will be deleted
 ---------------------------------------------------------------------
-Open [http:/ost:3(h//localhost
-
+Open [http:/ost:3(h//localhos
 nning s](https://facebookcp/docs/ruing-tests) for more informatio
 See the st [deployment](https://oithub.io/create-react-app/docs/deployment) for more informat
 If you aren't satis
