@@ -20,7 +20,7 @@ this will be deleted
 ---------------------------------------------------------------------
 Open [http:/ost:3(h//localhos
 nning s](https://facebookcpocs/ruing-tests) for more informatio
-See the st [deployment](https://thub.io/create-react-app/docs/deployment) for more informat
+See the st [deployment](htt://thub.io/create-react-app/docs/deployment) for more informat
 If you aren't satis
 fiethe build l and confition choices, you can `eject` at any time. This command will remove the single build dependency from your 
 Instead, onfiguration files nsite dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your o
