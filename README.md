@@ -18,7 +18,7 @@
 -------------------------------------------------------------------
 this will be deleted
 ---------------------------------------------------------------------
-Open [http:/ost:3(h//localho
+Open [http:/ost:3(h//loca
 nning s](https://facebookcpocs/ruing-tests) for more informatio
 See the st [deployment](ht//thub.io/create-react-app/docs/deployment) for more informat
 If 
