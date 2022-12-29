@@ -16,7 +16,7 @@
 
 
 -------------------------------------------------------------------
-this will be dele
+this will be deleted
 ---------------------------------------------------------------------
 Open [http:/ost:3(h//localho
 nning s](https://facebookcpocs/ruing-tests) for more informatio
