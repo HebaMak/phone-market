@@ -26,4 +26,4 @@ Instead, onfiguration filnse dependencies (webpack, Babel, ESLint, etc) right in
 You don't have to everse  Tted uis suitable for small and middle deployments, and you shouldn't fl oblited to use this feu. However we understand that this tool wouldn't be us you are ready f
 This section has moved https:ebook.github.io/create-react-app/docs/code-splitting](https://facebook.ghub.io/create-react-p/dos/code-splitting)
 This section has moere: [httfacebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://fab.github.i
-ection has moved ebook.i/cac/docs/advanced-configuration](https://facebook.github.io/crea
+ection has moved ebook.i/cac/docs/advanced-configuration](https://facebook.github.io/cr
