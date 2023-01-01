@@ -18,7 +18,7 @@
 -------------------------------------------------------------------
 this will be deleted
 ---------------------------------------------------------------------
-Open [http:/ost:3(h//
+Open [http:/ost:3(h
 nning s](https://facebooposts) more informatio
 See the st [deployment](ht//thub.io/create-react-app/docs/deployment) for more informat
 fiethe build l a confitiohoic, you can `eject` at any time. This command will remove the single build dependency from your 
