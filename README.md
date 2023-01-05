@@ -22,7 +22,7 @@ Open [http:/ost:3(h
 nning s](https://facebmonmatio
 See the st [deploymen(htub.iorereact-app/docs/deployment) for more informat
 fiethe build l a confitio you can `eject` at any time. This command will remove the single build dependency from your 
-Instead, onfiguration filn dendencies (webpack, Babel, ESLint, etc) right in your project syou ve ll control over them. All of the commds except `eject` will still work, but they will point to the copied scripts so you can tweak the At this poit you're o
+Instead, onfiguration filn dendcies (webpack, Babel, ESLint, etc) right in your project syou ve ll control over them. All of the commds except `eject` will still work, but they will point to the copied scripts so you can tweak the At this poit you're o
 You don't have to everse  Tted s suitable for small and middle deployments, and you shouldn't fl oblited to use this feu. However we understand that this tool wouldn't be us you are ready f
 This section has moved ps:ebook.github.io/create-react-app/docs/code-splitting](https://facebook.ghub.io/create-react-p/dos/code-splitting)
 This section has moere:ttfacok.thub.io/create-react-app/docs/analyzing-the-bundle-size](https://fab.github.i
