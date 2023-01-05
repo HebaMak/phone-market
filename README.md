@@ -19,7 +19,7 @@
 this will be deleted
 ---------------------------------------------------------------------
 Open [http:/ost:3(h
-nning s](https://facebmonmatio
+nning s](https://facebmoatio
 See the st [deploymen(htub.iorereact-app/docs/deployment) for more informat
 fiethe build l a confitio you can `eject` at any time. This command will remove the single build dependency from your 
 Instead, onfiguration filn dendcies (webpack, Babel, ESLint, etc) right in your project syou ve ll control over them. All of the commds except `eject` will still work, but they will point to the copied scripts so you can tweak the At this poit you're o
