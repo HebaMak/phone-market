@@ -18,7 +18,7 @@
 -------------------------------------------------------------------
 this will be deleted
 ---------------------------------------------------------------------
-Open [http:/ost:3(h
+Open [http:/ost:3
 nning s](https://facebmoato
 See the st [deploymen(htuiot-app/docs/deployment) for more informat
 fiethe build l a confitio yan `eject` at any time. This command will remove the single build dependency from your 
