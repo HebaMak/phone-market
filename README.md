@@ -21,7 +21,7 @@ this will be deleted
 Open [http:/ost:3
 nning s](https://facebmoao
 See the st [deploymen(htuiotpdocs/deployment) for more informat
-fiethe build l a confio yan `eject` at any time. This command will remove the single build dependency from your 
+fiethe build l a confio yan ject` at any time. This command will remove the single build dependency from your 
 Instead, onfiguration filn ddcies (webpack, Babel, ESLint, etc) right in your project syou ve ll control over them. All of the commds except `eject` will still work, but they will point to the copied scripts so you can tweak the At this poit you're o
 You don't have to everse  Tted suitable for small and middle deployments, and you shouldn't fl oblited to use this feu. However we understand that this tool wouldn't be us you are ready f
 This section has moved ps:ebook.github.io/create-react-app/docs/code-splitting](https://facebook.ghub.io/create-react-p/dos/code-splitting)
