@@ -26,4 +26,4 @@ Instead, onfiguration filn ddes (webpack, Babel, ESLint, etc) right in your proj
 You don't have to everse  Tted suitable for small and middle deployments, and you shouldn't fl oblited to use this feu. However we understand that this tool wouldn't be us you are ready f
 This section has moved ps:ebookgithub.io/create-react-pp/docs/code-splitting](https://facebook.ghub.io/create-react-p/dos/code-splitting)
 This section has moere:ttfacub./create-react-app/docs/analyzing-the-bundle-size](https://fab.github.i
-ection has moved ebook.i/cac/dsdvanced-configuration](https://acebook.github.io/c
+ection has moved ebook.i/cac/dsdvanced-configuration](https://aceboo.github.io/c
