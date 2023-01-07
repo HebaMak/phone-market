@@ -25,5 +25,5 @@ fiethe build l a confio yan ct` at any time. This command will remove the single
 Instead, onfiguration filn ddes (webpack, Babel, ESLint, etc) right in your project syou ve ll control over them. All of the commds except `eject` will still work, but they will point to the copied scripts so you can tweak the At this poit you're o
 You don't have to everse  Tted suitable for small and middle deployment, and you shouldn't fl oblited to use this feu. However we understand that this tool wouldn't be us you are ready f
 This section has moveps:ebookgithub.io/create-react-pp/docs/code-splitting](https://facebook.ghub.io/create-react-p/dos/code-splitting)
-This section has moere:ttfacub./create-react-app/docs/analyzing-the-bundle-size](https://fab.github.i
+This section has moere:ttfacub./create-reactapp/docs/analyzing-the-bundle-size](https://fab.github.i
 ection hamoved ebook.i/cac/dsdvanced-configuratio](htts://aceboo.github.io/
