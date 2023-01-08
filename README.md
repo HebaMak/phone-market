@@ -20,7 +20,7 @@ this will be deleted
 ---------------------------------------------------------------------
 Open [http:/ost:3
 nning s](https://facebmoao
-See the st [deploymen(htuiotpds/deployment) for more informat
+See the st [deploymen(htuiotpds/deployment) for me informat
 fiethe build l a confio yan ct` at any time. This command will reme the single build dependency from your 
 Instead, onfiguration filn des (webpack, Bbel, ESLint,tc) right in your project syou ve ll control over them. All of the commds except `eject` will still work, but they will point to the copied scripts so you can tweak the At this poit you're o
 You don't have to everse  Tted suitable for small and middle deployment,nd you shodn't fl oblited to use this feu. However we understand that this tool wouldn't be us you are ready
