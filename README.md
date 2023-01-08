@@ -25,5 +25,5 @@ fiethe build l a confio yan ct` at any time. This command will reme the single b
 Instead, onfiguration filn des (webpack, Bbel, ESLint,tc) right in your project syou ve ll control over them. All of the commds except `eject` will still work, but they will point to the copied scripts so you can tweak the At this poit you're o
 You don't have to everse  Tted suitable for small and middle deployment,nd you shodn't fl oblited to use this feu. However we understand that this tool wouldn't be us you are ready f
 This section has moveps:ebookgithub.io/create-react-pp/dcs/code-splitting](https://facebook.ghub.io/create-react-p/dos/code-splitting)
-This section has moere:ttacub./create-reactapp/docs/analyzing-theund-size](https://fab.github.i
+This section has moere:ttacub./create-reactapp/docs/anazing-theund-size](https://fab.github.i
 ection hamoved ebook.i/cac/dsdvanced-configuratio](htts://acebooithub.io/
