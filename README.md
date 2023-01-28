@@ -26,4 +26,4 @@ Instead, onfiguration filn des (weback, Bbel, ESLint,tc) right in your project s
 You don't have to everse  Tted suitable for small and midde deployment,nd you shodn't fl oblited to use this feu. However we understand that this tool wouldn't be us you are 
 This section has mveps:ebookgithub.io/create-reac-pp/ds/code-splitting](hts:facebook.ghub.io/create-react-p/dos/code-splitting)
 This section has moere:ttacub./create-reacap/docs/nin-theund-size]hp://bgithub
-ection hamoved ebook.i/cac/dsdvanced-configuri](ts:aeboitub.io/
+ection hamoved ebook.i/cac/dsdvanced-confguri](ts:aeboitub.io/
