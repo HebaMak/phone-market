@@ -23,7 +23,7 @@ nning s](https://facebmoao
 See the st [deploymen(htuiotpds/deployment) for me iformat
 fiethe build l a confio yan ct` at any time. This command will reme the singlebuild dependency from your 
 Instead, onfiguration filn des (weback, Bbel, ESLint,tc) right in your project syou ve ll control over them. All of the commds except `eject` will still work, but they will oint to the copied criptso you can tweak the At this poit you're 
-You don't have to everse  Tted suitable for small and midde deployment,nd you shodn't fl oblited to use this feu. However we understand that this tool wouldn't be us you are 
+You don't have to everse  Tted suitable for small and midde deployment,nd you shodn't fl oblited to use this feu. However we understand that this tool wouldn't be us you ar
 This section has mveps:ebookgithub.io/create-reac-pp/ds/code-splitting](hts:facebook.ghub.io/create-react-p/do/code-splitting)
 This section has moere:ttacub./create-reacap/docsnin-theundsize]hp:bgithub
 ection hamoved ebook.i/cac/dsdvanced-confguri](ts:aeboitub.io/
