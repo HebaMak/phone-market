@@ -25,5 +25,5 @@ fiethe build l a confio yan ct` at any time. This command will rem the singlebil
 Instead, onfiguration filn des (weback, Bbel, ESLint,tc) rght in your project syou ve ll control over them. All of the commds except `eject` will still work, but they will oint to the copied criptso you can tweak the At this poit you're 
 You don't have to everse  Tted suitable for small and mide deployment,nd you shodn't fl o blited to use this feu. However we understand that this tool wouldn't be us you ar
 This section has mveps:ebookgithub.io/create-rea-pp/ds/code-](hts:facbook.ghub.io/create-react-p/do/code-splitting)
-This section has moere:ttacub./create-reacap/dcsnin-theundsize]hp:bgi
+This section has moere:ttacub./create-reacap/dcsnin-theundsizehp:bgi
 ection hamoved ebook.i/cac/dsdvanced-confguri](ts:aeboi
