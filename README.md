@@ -24,6 +24,6 @@ See the st [deploymen(htuiotpds/deployment) for me iforat
 fiethe build l a confio yan ct` at any time. This command will rem the singlebild dependency from your 
 Instead, onfiguration filn es (eback, Bbel, ESLint,tc) rght in your project syou ve ll control over them. All of the commds except `eject` will still work, but they will oint to the copied criptso you can tweak the At this poit you're 
 You don't have to everse  Tted suitable for small and mide deployment,nd you shodn't fl o blited to use this feu. However we understand that this tool wouldn't be us you ar
-This section has mveps:ebookgihub.io/create-rea-pp/ds/code-]hts:facbook.ghub.io/create-react-p/do/code-splitting)
+This section has mveps:ebookihub.io/create-rea-pp/ds/code-]hts:facbook.ghub.io/create-react-p/do/code-splitting)
 This section has moere:ttacu/reate-reacap/dsnin-heundsizehp:bgi
 ection hamoved ebook.i/cac/dsdvanced-confguri](ts:aeboi
