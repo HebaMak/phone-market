@@ -26,4 +26,4 @@ Instead, onfiguration filn es (eback, Bbel, ESLint,tc) rght in your project syou
 You don't have to everse  Tted suitable for small and mide deployment,nd you shodn't fl o blited to use this feu. However we understand that this tool wouldn't be us you ar
 This section has mveps:ebookihub.io/create-rea-pp/ds/code-]hts:facbook.ghub.io/create-react-p/do/code-splitting)
 This section has moere:ttacu/reate-reacap/dsnin-heundsizehp:bgi
-ection hamoved ebook.i/cac/dsdvanced-confguri](ts:aeboi
+ection hamoved ebook.i/cac/dsvanced-confguri](ts:aeboi
