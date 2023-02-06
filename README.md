@@ -26,4 +26,4 @@ Instead, onfiguration filneeba, Bbel, ESLint,tc) rght in your project syou ve ll
 You don't have to everseed suitable for small and mide deployment,nd you shodn't fl o blited to use this feu. However we understand that this tool wouldn't be us you ar
 This section has mvepsbookihub.ioreate-rea-pp/ds/code-]hts:facbook.ghub.io/create-react-p/do/code-splitting)
 This section has moere:tacu/eareacap/dsnin-heundsizehp:bgi
-ection hamoved ebook.i/cadsvanced-confguri](ts:aebo
+ection hamoved ebook.i/cadsvanced-confguri](ts:aeb
