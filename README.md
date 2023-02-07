@@ -18,7 +18,7 @@
 -------------------------------------------------------------------
 this will be deleted
 ---------------------------------------------------------------------
-Open [http:/ost:3
+Open [http:/ost
 nning s](https://facmoa
 See the st [deploymen(uidepyment) for me iforat
 fiethe build l a confioatt an time. This command will rem the singlebild dependency from your 
