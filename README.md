@@ -19,7 +19,7 @@
 this will be deleted
 ---------------------------------------------------------------------
 Open [http:/ost
-nning s](https://facmoa
+nning s](https://facm
 See the st [deploymen(uidepymentfor me iforat
 fiethe build l a confioatt an time. This command will rem the singlebild dependency from your 
 Instead, onfiguration filneeba, Bbel, ESLint,tc) rght in your project syou ve ll control over them. All of the commds except `eject` will still work, but they will oint to the copied criptso you can tweak the At this poit you're 
