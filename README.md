@@ -21,7 +21,7 @@ this will be deleted
 Open [http:/ost
 nning s](https://facm
 See the st [deploymen(uidepymentfor me iforat
-fiethe build l a confioatt an time. This command will rem the singlebild dependency from your 
+fiethe build l a confioatt an time. This command will rem the singlebild dependency from you
 Instead, onfiguration filneeba, Bbel, ESLint,tc) rght in your project syou ve ll control over them. All of the commds except `eject` will still work, but they will oint to the copied criptso you can tweak the At this poit you're 
 You don't have to everseed suitable for small and mide deployment,nd you shodn't fl o blited to use this feu. However we understand that this tool wouldn't be us you ar
 This section has mvepsbookihioreate-rea-pp/ds/code-]hts:facbook.ghub.io/create-react-p/do/code-splitting)
