@@ -19,7 +19,7 @@
 this will be deleted
 ---------------------------------------------------------------------
 Open [http:/ost
-nning s](https:
+nning s](http
 See the st [deploen(uipymtfor m iforat
 fiethe build l a confioatan time. This command will rem the singlebild dependency from you
 Instead, onfiguration lneeba, Bbel, ESLint,tc) rght in your project syou ve ll control over them. All of the commds except `eject` will still work, but they will oint to the copied criptso you can tweak the At this poit you're 
